@@ -11,8 +11,7 @@
   
 * BERT/run_classifier.py
   - Train the model using BERT
-  - Installation and other details are provided in a seperate [README](https://github.com/Suraj-Siddharudh/Toxic-Comment-Classifier/blob/master/BERT/Readme.txt) file for BERT
-  - To run, run the file using Python 3. To run use the following command `python run_classifier.py`
+  - Installation and steps to run are provided in a seperate [README](https://github.com/Suraj-Siddharudh/Toxic-Comment-Classifier/blob/master/BERT/Readme.txt) file for BERT
   
 #### Team Members:
 * Isha Pandya - ipandya
